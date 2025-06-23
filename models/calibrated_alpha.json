@@ -1,0 +1,19 @@
+{
+  "alpha": {
+    "A": {
+      "agriculture": 0.4166666666666667,
+      "manufacturing": 0.3125,
+      "services": 0.2708333333333333
+    },
+    "B": {
+      "agriculture": 0.4,
+      "manufacturing": 0.34,
+      "services": 0.26
+    },
+    "C": {
+      "agriculture": 0.38461538461538464,
+      "manufacturing": 0.34615384615384615,
+      "services": 0.2692307692307692
+    }
+  }
+}

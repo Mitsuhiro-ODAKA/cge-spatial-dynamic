@@ -1,0 +1,10 @@
+region,sector,household,government,investment,export
+A,agriculture,50,30,15,5
+A,manufacturing,40,20,10,5
+A,services,30,25,5,5
+B,agriculture,60,25,10,5
+B,manufacturing,45,20,15,5
+B,services,35,15,10,5
+C,agriculture,55,20,20,5
+C,manufacturing,50,15,20,5
+C,services,40,10,15,5
