@@ -66,3 +66,6 @@ Notebook例では、以下のセル順で実行します:
 
 ---
 
+![](outputs/figures/choropleth.png)
+![](outputs/figures/gdp_dynamics.png)
+![](outputs/figures/sector_shares.png)
